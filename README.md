@@ -27,10 +27,11 @@
 
 
 ## Projects
-- [Project 1](link)
+- [instagram.img](link)
 - [Project 2](link)
 
 ## Skills
 - Python
-- JavaScript
+- html
+- css
 - etc.
