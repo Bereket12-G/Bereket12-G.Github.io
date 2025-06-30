@@ -34,7 +34,7 @@
 
 
 
-## Skills
+## 📚Skills
 - Python
 - html
 - css
