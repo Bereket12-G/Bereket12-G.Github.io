@@ -2,7 +2,7 @@
 #     Hi👋, I'm Bereket!
 Welcome to my GitHub portfolio.
 
--A passionate fronted developer from Ethiopia.
+#A passionate fronted developer from Ethiopia.
 
 
 # My Portfolio
