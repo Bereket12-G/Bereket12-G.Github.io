@@ -1,5 +1,5 @@
 # Bereket12-G.Github.io
-# Hi👋, I'm Bereket!
+#     Hi👋, I'm Bereket!
 Welcome to my GitHub portfolio.
 
 -A passionate fronted developer from Ethiopia.
