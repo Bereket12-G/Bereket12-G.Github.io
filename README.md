@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio.
 
 -🤝 I'm looking for help with JavaScript 
 
--👨‍💻 All my projects areavailable at https://github.com/Bereket12-G
+-👨‍💻 All my projects are available at https://github.com/Bereket12-G
 
 -💬 Ask me about python, html
 
