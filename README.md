@@ -2,7 +2,15 @@
 # Hi👋, I'm Bereket!
 Welcome to my GitHub portfolio.
 
--A passionate fronted developer from Ethiopia 
+-A passionate fronted developer from Ethiopia.
+
+
+# My Portfolio
+
+![My Profile Picture](images/profile.png)
+
+This is my portfolio website.
+
 
 
 -🔭 I'm currently working on tech club website
@@ -18,13 +26,6 @@ Welcome to my GitHub portfolio.
 -💬 Ask me about python, html
 
 -📬 How to reach me bereketgezhagne12@gmail.com
-
-
-# My Portfolio
-
-![My Profile Picture](images/profile.png)
-
-This is my portfolio website.
 
 
 
