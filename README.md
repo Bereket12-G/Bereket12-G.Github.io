@@ -7,7 +7,7 @@ Welcome to my GitHub portfolio.
 
 # My Portfolio
 
-!
+!![Alt text](https://github.com/Bereket12-G/Bereket12-G.Github.io/blob/main/profile.jpg?raw=true)
 
 This is my portfolio website.
 
