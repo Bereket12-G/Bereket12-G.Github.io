@@ -19,6 +19,15 @@ Welcome to my GitHub portfolio.
 
 -📬 How to reach me bereketgezhagne12@gmail.com
 
+
+# My Portfolio
+
+![My Profile Picture](images/profile.png)
+
+This is my portfolio website.
+
+
+
 ## Projects
 - [Project 1](link)
 - [Project 2](link)
