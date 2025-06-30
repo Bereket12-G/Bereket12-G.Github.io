@@ -26,14 +26,9 @@
 
 
 
-## 𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚:
+## 🔗𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/bere.ketg12)
 
-[![Telegram](https://img.shields.io/badge/Telegram-%23E4405F.svg?style=for-the-badge&logo=Telegram&logoColor=white)](https://Telegram.com/Michael_12_0)
-
-# Welcome to My Portfolio
-
-Connect with me:
 
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/Michael_12_0)
 
