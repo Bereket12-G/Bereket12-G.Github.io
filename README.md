@@ -19,6 +19,11 @@ Welcome to my GitHub portfolio.
 
 -📬 How to reach me bereketgezhagne12@gmail.com
 
+
+🔗𝙘𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
+-instagram(http://Instagram.com/bere.ketg1ketg12
+
+
 ## Projects
 - [Project 1](link)
 - [Project 2](link)
