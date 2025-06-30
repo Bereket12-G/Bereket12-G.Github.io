@@ -15,6 +15,10 @@ Welcome to my GitHub portfolio.
 
 -👨‍💻 All my projects areavailable at https://github.com/Bereket12-G
 
+-💬 Ask me about python, html
+
+-📬 How to reach me bereketgezhagne12@gmail.com
+
 ## Projects
 - [Project 1](link)
 - [Project 2](link)
