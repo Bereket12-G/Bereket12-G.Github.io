@@ -1,0 +1,45 @@
+body {
+  font-family: 'Segoe UI', Arial, sans-serif;
+  margin: 0;
+  background: #f5f7fa;
+  color: #222;
+}
+header {
+  background: #232526;
+  color: #fff;
+  padding: 2em 0 1em 0;
+  text-align: center;
+}
+.profile-pic {
+  width: 120px;
+  border-radius: 50%;
+  margin-bottom: 1em;
+}
+nav a {
+  margin: 0 1em;
+  color: #ffb347;
+  text-decoration: none;
+  font-weight: bold;
+}
+section {
+  margin: 2em auto;
+  max-width: 700px;
+  background: #fff;
+  padding: 1.5em;
+  border-radius: 8px;
+  box-shadow: 0 1px 6px rgba(0,0,0,0.1);
+}
+.project-card {
+  border-left: 4px solid #232526;
+  margin: 1em 0;
+  padding: 1em;
+  background: #f9fafb;
+  border-radius: 5px;
+}
+footer {
+  text-align: center;
+  padding: 1em 0;
+  color: #888;
+  background: #eee;
+  margin-top: 2em;
+}
