@@ -43,12 +43,6 @@ const projects = [
         github: 'https://github.com/entuelias/ProjectGraphis'
     },
     {
-        title: 'Plant Shop Website',
-        description: 'An e-commerce website for a plant shop featuring a modern design, product catalog, and shopping cart functionality.',
-        image: 'assets/project2.jpg',
-        github: 'https://github.com/yeabsiraAbiy/PRODIGY_WD_01                                                                        '
-    },
-    {
         title: 'Stopwatch Application',
         description: 'A precise stopwatch web application with lap timing, split times, and a clean interface for time tracking.',
         image: 'assets/project3.jpg',
@@ -129,7 +123,7 @@ document.getElementById('contact-form').addEventListener('submit', function(e) {
     const message = document.getElementById('message').value;
 
     // Create mailto URL with form data
-    const mailtoUrl = `mailto:abiyyeabsra@gmail.com?subject=Contact from ${encodeURIComponent(name)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
+    const mailtoUrl = `mailto:bereketgezhagne12@gmail.com?subject=Contact from ${encodeURIComponent(name)}&body=${encodeURIComponent(`Name: ${name}\nEmail: ${email}\n\nMessage:\n${message}`)}`;
 
     // Open default email client
     window.location.href = mailtoUrl;
