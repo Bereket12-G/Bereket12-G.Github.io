@@ -37,8 +37,8 @@ const skillsGrid = document.querySelector('.skills-grid');
 // Projects Data
 const projects = [
     {
-        title: 'Bulletstorm Games',
-        description: 'A simple first-person shooter game showcasing game development skills with interactive gameplay mechanics and engaging user experience.',
+        title: 'Education center website',
+        description: 'A simple interactive and informative website.its not too much fancy but it well done.',
         image: 'assets/project1.jpg',
         github: 'https://github.com/entuelias/ProjectGraphis'
     },
