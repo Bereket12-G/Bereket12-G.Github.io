@@ -40,7 +40,7 @@ const projects = [
         title: 'Education center website',
         description: 'A simple interactive and informative website.its not too much fancy but it well done.',
         image: 'assets/project1.jpg',
-        github: 'https://github.com/Bereket12-G/Lucy-Education-Center'
+        github: 'https://github.com/Bereket12-G.Github.com/Lucy-Education-Center'
     },
     {
         title: 'Stopwatch Application',
