@@ -40,13 +40,13 @@ const projects = [
         title: 'Education center website',
         description: 'A simple interactive and informative website.its not too much fancy but it well done.',
         image: 'assets/project1.jpg',
-        github: 'https://github.com/entuelias/ProjectGraphis'
+        github: 'https://github.com/Lucy-Education-Center'
     },
     {
         title: 'Stopwatch Application',
         description: 'A precise stopwatch web application with lap timing, split times, and a clean interface for time tracking.',
         image: 'assets/project3.jpg',
-        github: 'https://github.com/yeabsiraAbiy/PRODIGY_WD_02'
+        github: 'https://github.com/yeabaAbiy/PRODIGY_WD_02'
     }
 ];
 
