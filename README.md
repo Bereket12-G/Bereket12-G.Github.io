@@ -7,7 +7,7 @@
 
 
 🔗👨‍💻A passionate fronted developer from Ethiopia.
--🔭 I'm currently working on tech club website
+-🔭 I'm currently working on tech club website.
 
 -🌱 I'm currently learning bootstrap and java script 
 
